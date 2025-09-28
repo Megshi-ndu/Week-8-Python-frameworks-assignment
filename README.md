@@ -104,6 +104,13 @@ cord-19-explorer/
 🎯 Usage
 Start the application
 
+In terminal (powershell), type : PS C:\Users\PC\Desktop\Python\PYTHON ASSIGNMENTS\Week 8 assignment\Week-8-Python-frameworks-assignment> streamlit run main.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.100.17:8501
+
 bash
 streamlit run app.py
 Access the web interface
